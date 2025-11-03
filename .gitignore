@@ -1,0 +1,18 @@
+# Ignore all virtual environments anywhere
+**/venv/
+**/.venv/
+**/__pycache__/
+**/.ipynb_checkpoints/
+*.pyc
+
+# Ignore IDEs and system files
+.vscode/
+.idea/
+.DS_Store
+
+# Ignore env files
+.env
+*.log
+*.tmp
+
+
